@@ -1,6 +1,6 @@
 ## Hi, I'm Francisco Andrade 👋
 
-##About Me
+## About Me
 
 :computer: **Ingeniero en base de datos**  
 :pencil: **Generador de contenido**  
@@ -8,7 +8,7 @@
 :location: **San salvador, El Salvador**  
 :drum: **Me gusta tocar bateria**  
 
-##Skills & Technologies  
+## Skills & Technologies  
 
-:Lenguages: Python, Java  
-:Database: Sql Server, Oracle delopment
+**Lenguages:** Python, Java  
+**:Database:** Sql Server, Oracle delopment
