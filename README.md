@@ -5,10 +5,10 @@
 :computer: **Ingeniero en base de datos**  
 :pencil: **Generador de contenido**  
 :eyeglasses: **Geek empedernido**  
-:location: **San salvador, El Salvador**  
+:location: **San salvador - El Salvador**  
 :drum: **Me gusta tocar bateria**  
 
 ## Skills & Technologies  
 
 **Lenguages:** Python, Java  
-**:Database:** Sql Server, Oracle delopment
+**Database:** Sql Server, Oracle delopment
